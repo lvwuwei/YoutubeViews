@@ -13,7 +13,7 @@ Also we need Geckodriver 0.24.0 : https://github.com/mozilla/geckodriver/release
 Once all the requirements are successfully installed, run
 
 python3 YoutubeViews.py
-
+*** and run must with tor browser how to install tor look with https://byy3.com
 Now give the Youtube URL, number of views you want and watchtime in seconds. Write in the Given Format only
 
 https://youtu.be/VT6cQhksHhw 5-400 [It like (youtube_link [space] number of views [dash] watchtime in seconds)]
